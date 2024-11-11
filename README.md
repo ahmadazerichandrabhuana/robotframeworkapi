@@ -1,5 +1,7 @@
 # API Test Automation using Robot Framework
 This is a (very) simple sample of API Test Automation using Robot Framework.
+API Collection retrieved from this Website : https://thinking-tester-contact-list.herokuapp.com/ (credit to [Kristin Jackvony](https://thinkingtester.com/about/)).
+You can check my GitHub Repository [here](https://github.com/ahmadazerichandrabhuana/postmanapitest) for API Collection on Postman.
 
 ## Requirements
 
